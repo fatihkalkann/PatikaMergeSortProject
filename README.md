@@ -1,0 +1,1 @@
+Merge Sort projesinde verilen bir dizi içerisindeki elemanları logaritmik olarak 2'ye bölerek finalde küçükten büyüğe olacak şekilde sıraladık. İkinci adım olarak Merge Sort işleminin Big O gösterimini yaptık.
